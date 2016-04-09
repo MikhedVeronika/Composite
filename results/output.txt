@@ -1,0 +1,37 @@
+File content: 
+
+
+package com.epam.composite.main;  
+import com.epam.composite.handler.CodeParser;  
+import com.epam.composite.logic.LexemesList;  
+import com.epam.composite.logic.LexemesSort;  
+import org.apache.log4j.LogManager;  
+import org.apache.log4j.Logger;  
+import org.apache.log4j.xml.DOMConfigurator;  
+import java.util.ArrayList;  public final class ExampleClass extends ParentExample implements InterfaceExample { 
+protected int h = 1;  
+public static final Logger logger;  
+public ArrayList <String> string = new ArrayList();  
+static { 
+final int D = 1;  
+d = 5 / 5;  
+}  
+public abstract int get ();  
+public void set ();  
+public ExampleClass () { 
+super();  
+int x = 10;  
+this.h = h;  
+h *= b;  
+}  
+@Override protected int getH (int x) { 
+int y = 1103;  
+double x1 = 7.0;  
+return h;  
+}  
+public double plus (double x, double y) { 
+double res = x+y;  
+return res;  
+}  
+} 
+

@@ -1,0 +1,116 @@
+Deleting first letters in lexemes: 
+
+package     ->     ackage
+com.epam.composite.main;     ->     om.epam.omposite.main;
+import     ->     mport
+com.epam.composite.handler.CodeParser;     ->     om.epam.omposite.handler.CodeParser;
+import     ->     mport
+com.epam.composite.logic.LexemesList;     ->     om.epam.omposite.logi.LexemesList;
+import     ->     mport
+com.epam.composite.logic.LexemesSort;     ->     om.epam.omposite.logi.LexemesSort;
+import     ->     mport
+org.apache.log4j.LogManager;     ->     rg.apache.lg4j.LgManager;
+import     ->     mport
+org.apache.log4j.Logger;     ->     rg.apache.lg4j.Lgger;
+import     ->     mport
+org.apache.log4j.xml.DOMConfigurator;     ->     rg.apache.lg4j.xml.DOMCnfiguratr;
+import     ->     mport
+java.util.ArrayList;     ->     ava.util.ArrayList;
+public     ->     ublic
+final     ->     inal
+class     ->     lass
+ExampleClass     ->     xampleClass
+extends     ->     xtnds
+ParentExample     ->     arentExample
+implements     ->     mplements
+InterfaceExample     ->     nterfaceExample
+{     ->     
+protected     ->     rotected
+int     ->     nt
+h     ->     
+=     ->     
+1;     ->     ;
+public     ->     ublic
+static     ->     tatic
+final     ->     inal
+Logger     ->     ogger
+logger;     ->     ogger;
+public     ->     ublic
+ArrayList     ->     rrayList
+<String>     ->     String>
+string     ->     tring
+=     ->     
+new     ->     ew
+ArrayList();     ->     rrayList();
+static     ->     tatic
+{     ->     
+final     ->     inal
+int     ->     nt
+D     ->     
+=     ->     
+1;     ->     ;
+d     ->     
+=     ->     
+5     ->     
+/     ->     
+5;     ->     ;
+}     ->     
+public     ->     ublic
+abstract     ->     bstrct
+int     ->     nt
+get     ->     et
+();     ->     );
+public     ->     ublic
+void     ->     oid
+set     ->     et
+();     ->     );
+public     ->     ublic
+ExampleClass     ->     xampleClass
+()     ->     )
+{     ->     
+super();     ->     uper();
+int     ->     nt
+x     ->     
+=     ->     
+10;     ->     0;
+this.h     ->     his.h
+=     ->     
+h;     ->     ;
+h     ->     
+*=     ->     =
+b;     ->     ;
+}     ->     
+@Override     ->     Override
+protected     ->     rotected
+int     ->     nt
+getH     ->     etH
+(int     ->     int
+x)     ->     )
+{     ->     
+int     ->     nt
+y     ->     
+=     ->     
+1103;     ->     03;
+double     ->     ouble
+x1     ->     1
+=     ->     
+7.0;     ->     .0;
+return     ->     etun
+h;     ->     ;
+}     ->     
+public     ->     ublic
+double     ->     ouble
+plus     ->     lus
+(double     ->     double
+x,     ->     ,
+double     ->     ouble
+y)     ->     )
+{     ->     
+double     ->     ouble
+res     ->     es
+=     ->     
+x+y;     ->     +y;
+return     ->     etun
+res;     ->     es;
+}     ->     
+}     ->     

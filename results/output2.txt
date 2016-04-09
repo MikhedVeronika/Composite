@@ -1,0 +1,23 @@
+List of operators sorted by lexemes count: 
+
+super();
+package com.epam.composite.main;
+import com.epam.composite.handler.CodeParser;
+import com.epam.composite.logic.LexemesList;
+import com.epam.composite.logic.LexemesSort;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+import org.apache.log4j.xml.DOMConfigurator;
+import java.util.ArrayList;
+return h;
+return res;
+this.h = h;
+h *= b;
+public void set ();
+int x = 10;
+int y = 1103;
+double x1 = 7.0;
+double res = x+y;
+final int D = 1;
+d = 5 / 5;
+public abstract int get ();
